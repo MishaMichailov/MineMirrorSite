@@ -1,0 +1,104 @@
+@font-face{
+	font-family: "trebuchet";
+	src: url("fonts/9412.ttf");
+}
+@font-face{
+	font-family: "tf2";
+	src: url("fonts/8374.ttf");
+}
+body {
+	background-image: url('https://picua.org/images/2021/05/13/362c9e7791066244858d6d7423a8f970.png');
+}
+h1{
+	position: absolute;
+	font-family: "tf2";
+	z-index: 1;
+	text-decoration: none;
+	color: white;
+	left: 26%;
+	top: 15%;
+}
+a{
+	position: absolute;
+	font-family: 'trebuchet';
+	z-index: 1;
+	text-decoration: none;
+	padding-top: 5px;
+	font-weight: bold;
+}
+#logo{
+	position: absolute;
+	top: 2px;
+	left: 11.3%;
+	z-index: 1;
+}
+.t1:hover{
+	color:#CCCCCC;
+}
+.t1{
+	color: white;
+	font-size: 16px;
+}
+#top{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	height: 48px;
+	width: 100%;
+	background-color: #555;
+	background-image: url('https://picua.org/images/2021/05/13/164880aa96411a26aba69b992bac1002.png');
+	border-bottom: 3px solid #000;
+}
+#mh{
+	position: absolute;
+	top: 0.8%;
+	left: 33.7%;
+}
+#ma{
+	position: absolute;
+	top: 0.8%;
+	left: 38%;
+}
+#mc{
+	position: absolute;
+	top: 0.8%;
+	left: 42.3%;
+}
+#mm{
+	position: absolute;
+	top: 0.8%;
+	left: 49.6%;
+}
+#mh1{
+	position: absolute;
+	top: 0.8%;
+	left: 53.9%;
+}
+#mli{
+	position: absolute;
+	top: 0.8%;
+	left: 72%;
+	color: #aaf;
+}
+#l1{
+	position: absolute;
+	color: #E0D0D0;
+	font-size: 12px;
+	font-weight: normal;
+	top: 1.1%;
+	left: 75.6%;
+}
+#mr{
+	position: absolute;
+	top: 0.8%;
+	left: 76.3%;
+	color: #aaf;
+}
+.t2:hover{
+	color: white;
+}
+.footer {
+    text-align: center;
+    font-size: 12px;
+
+}
